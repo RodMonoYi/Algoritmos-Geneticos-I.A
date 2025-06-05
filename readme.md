@@ -21,8 +21,8 @@ Se você já tem o Python (versão 3.x) instalado você pode rodar os scripts di
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <git@github.com:RodMonoYi/Algoritmos-Geneticos-I.A.git>
-    cd <Algoritmos-Geneticos-I.A>
+    git clone git@github.com:RodMonoYi/Algoritmos-Geneticos-I.A.git
+    cd Algoritmos-Geneticos-I.A
     ```
 
 2.  **Instale as Dependências:**
@@ -49,8 +49,8 @@ Se você não quer instalar o Python e as dependências diretamente no seu siste
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone <git@github.com:RodMonoYi/Algoritmos-Geneticos-I.A.git>
-    cd <Algoritmos-Geneticos-I.A>
+    git clone git@github.com:RodMonoYi/Algoritmos-Geneticos-I.A.git
+    cd Algoritmos-Geneticos-I.A
     ```
 
 2.  **Construa a Imagem Docker:**
